@@ -5,3 +5,7 @@ ddkuit
 电商规则 https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash
 
 分组https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini
+
+
+
+脚本基础：https://www.w3schools.cn/html/html_responsive.asp
